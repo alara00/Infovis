@@ -10,4 +10,4 @@
 
    <a href="https://alara00.github.io/Infovis/TPdatospersonales.html"> TP DatosPersonales</a>
    
-   <a href="https://alara00.github.io/Infovis/c7d25ec86085dd603045fe0aafaa25d9f851d167/Captura.PNG"> Preview</a>
+   <a href="https://alara00.github.io/Infovis/Captura.PNG"> Preview</a>
