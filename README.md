@@ -9,5 +9,3 @@
    <a href="https://alara00.github.io/Infovis/MakeOverMonday%20-%20%23W34.html"> #MakeOverMonday - #W34</a> (Interactivo)
 
    <a href="https://alara00.github.io/Infovis/TPdatospersonales.html"> TP DatosPersonales</a>
-   
-   <a href="https://alara00.github.io/Infovis/Captura.PNG"> Preview</a>
